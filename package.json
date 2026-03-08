@@ -1,0 +1,21 @@
+{
+  "name": "chc-backend",
+  "version": "1.0.0",
+  "description": "Js backend using ipynb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "node",
+    "ipynb"
+  ],
+  "author": "Priyanshu",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
